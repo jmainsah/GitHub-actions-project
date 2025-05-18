@@ -1,4 +1,4 @@
-name: CICD Pipeline 
+name: CICD PL 
 
 on:
   push:
